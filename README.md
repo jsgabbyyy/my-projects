@@ -1,0 +1,10 @@
+<h1>Hello!</h1>
+<p>This is just a silly little project I made, because I'm so into Watanare!! But first..</p>
+<hr>
+<h2>How to install:</h2>
+You need Custom Themes Manager to install this theme.<br><br>
+First, download and extract the .ZIP file. If you have VitaDeploy or VitaShell, plug your USB in and mount ux0; to your device. Then, put the theme into ux0/customtheme. If it's not extracted, it won't show up when you try to install it. <br><br>
+Then, open Custom Themes Manager and choose the option "Install a Custom Theme from the local folder (which is ux0/customtheme.). Then, you'll see it and simply install it after (Press the X button, and then press start.).<br><br>
+Alternatively, you can download it from the main repository, just using your Vita! I uploaded it, but if it didn't work, just do what I said above!
+
+Thanks for downloading! :3
