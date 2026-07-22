@@ -8,3 +8,5 @@ Then, open Custom Themes Manager and choose the option "Install a Custom Theme f
 Alternatively, you can download it from the main repository, just using your Vita! I uploaded it, but if it didn't work, just do what I said above!
 
 Thanks for downloading! :3
+<hr>
+I used https://www.gamebrew.org/wiki/Vita_ThemeBUILDER to make this theme.
